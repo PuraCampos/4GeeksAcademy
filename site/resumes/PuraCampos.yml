@@ -1,0 +1,81 @@
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Pura
+  last_name: Campos
+  motto: Conscious breathing
+  focus: work to improve the version of myself
+  summary: >
+    I am currently studying Data Analysis and Machine Learning while
+    working in the restaurant sector, where I have developed skills in team management and accounting administration.
+    My focus is on continuous improvement and innovation, always seeking to optimize the customer experience. 
+    I am excited about the opportunity to apply my analytical knowledge in a new challenge in data analysis
+  
+  avatar: null
+  email: camposllinares@gmail.com
+  phone: null
+  website: null
+  linkedin: www.linkedin.com/in/pura-campos
+  github: PuraCampos
+  twitter: null
+  stack-overflow: null
+  languages:
+    - idiom: Spanish
+      level: Native
+    - idiom: Catalan
+      level: Professional
+    - idiom: English
+      level: Intermediate
+    - idiom: Portuguese
+      level: Intermediate
+  interests:
+    - item: Beach volleyball
+    - item: Padel
+    - item: Cooking
+education:
+  - degree: Accounting and administrative management for companies
+    university: CESF
+    university_logo: null
+    time: null
+    details: ""
+  - degree: Master's Degree in Hotel and Restaurant Business Management
+    university: OSTELEA
+    university_logo: null
+    time: null
+    details: ""
+  - degree: Advanced Studies in Art History
+    university: University de Barcelona
+    university_logo: null
+    time: null
+    details: null
+  - degree: Art History
+    university: University de Granada
+    university_logo: null
+    time: null
+    details: null
+experiences:
+  - role: Administrative accountant
+    time: 2023 - 2024
+    company: La Font de Prades S.L, Barcelona
+    company_logo: null
+    details: ""
+  - role: Administrative accountant
+    time: 2021 - 2023
+    company: Centre Gestor Lleida S.A, Barcelona
+  - role: Administrative accountant
+    time: 2019 - 2021
+    company: Revolution SL; Mcnally SL, Leadbelly SL, Barcelona
+skills:
+  toolset:
+    - name: Python & Django
+      level: 30%
+    - name: Javascript & jQuery
+      level: 0%
+    - name: Angular
+      level: 0%
+    - name: HTML5 & CSS
+      level: 0%
+    - name: Ruby on Rails
+      level: 0%
+    - name: Sketch & Photoshop
+      level: 0%
